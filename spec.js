@@ -10,4 +10,4 @@ fs.writeFile("views/Output.txt", date, function(err) {
     }
     console.log("File is Successfully Created");
 
-});
+});     
